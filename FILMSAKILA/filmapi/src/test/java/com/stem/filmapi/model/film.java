@@ -1,17 +1,17 @@
-package com.stem.filmapi.model; 
+package com.stem.modelapi.model; 
 
-public class film {
+public class Film {
 
     private int id;
     private String title;
     private String description;
     private int length;
 
-    public film() {
+    public Film() {
 
     }
 
-    public film(int id, String title, String description, int lenght) {
+    public Film(int id, String title, String description, int lenght) {
         this.id = id;
         this.title = title;
         this.description = description;
