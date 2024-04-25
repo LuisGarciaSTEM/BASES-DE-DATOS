@@ -1,4 +1,4 @@
-package com.stem.modelapi.model; 
+package com.stem.filmapi.model; 
 
 public class Film {
 
